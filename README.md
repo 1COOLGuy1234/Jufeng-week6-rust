@@ -1,6 +1,5 @@
-# rust-new-project-template
-A good starting point for a new Rust project
+# Jufeng's week6 rust mini project
 
-## References
+A CLI helps us calculate average number
 
-* [rust-cli-template](https://github.com/kbknapp/rust-cli-template)
+Practice Rust “chained method calls” and "closure"
